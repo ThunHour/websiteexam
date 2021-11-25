@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+    font-size:2rem;
+    color: black;
+}
+.navbar-brand:hover{
+  
+    color: black;
+}
+.nav-link{
+    font-family: 'Rubik', sans-serif;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black!important;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color: rgb(255, 139, 139)!important;
+   
+ 
+}
+
+.text-white{
+    text-decoration: none;
+}
+.Logo{
+    width: 100px;
+    height: 100px;
+}
+.VC-logo {
+    width: 200px;
+    height: 200px;
+}
+.container h1{
+    color:rgb(255, 139, 139)!important;
+}
